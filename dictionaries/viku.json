@@ -3,7 +3,7 @@
     {
       "entry": {
         "id": 0,
-        "form": "an"
+        "form": "al"
       },
       "translations": [
         {
@@ -36,7 +36,7 @@
     {
       "entry": {
         "id": 1,
-        "form": "in"
+        "form": "ind"
       },
       "translations": [
         {
@@ -69,7 +69,7 @@
     {
       "entry": {
         "id": 2,
-        "form": "un"
+        "form": "und"
       },
       "translations": [
         {
@@ -98,7 +98,7 @@
     {
       "entry": {
         "id": 3,
-        "form": "iv"
+        "form": "iva"
       },
       "translations": [
         {
@@ -124,7 +124,7 @@
     {
       "entry": {
         "id": 4,
-        "form": "uv"
+        "form": "uven"
       },
       "translations": [
         {
@@ -150,20 +150,20 @@
     {
       "entry": {
         "id": 5,
-        "form": "kut"
+        "form": "utt"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "I/me/my"
+            "私/俺"
           ]
         }
       ],
       "tags": [
 
       ],
-      "contents": [
+      "contents": [は
         {
           "title": "etymology",
           "text": "Indonesian 'aku' (Malayo-Polynesian)"
@@ -179,13 +179,13 @@
     {
       "entry": {
         "id": 6,
-        "form": "kus"
+        "form": "kent"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "we/us/our (inclusive, with you)"
+            "我ら/私たち (inclusive, with you)"
           ]
         }
       ],
@@ -208,7 +208,7 @@
     {
       "entry": {
         "id": 7,
-        "form": "kup"
+        "form": "kupan"
       },
       "translations": [
         {
@@ -237,13 +237,13 @@
     {
       "entry": {
         "id": 8,
-        "form": "vat"
+        "form": "vais"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "you/your (singular)"
+            "あなた (singular)"
           ]
         }
       ],
@@ -272,7 +272,7 @@
         {
           "title": "structure",
           "forms": [
-            "you/your (plural)"
+            "あなた (plural)"
           ]
         }
       ],
@@ -321,7 +321,7 @@
     {
       "entry": {
         "id": 11,
-        "form": "tas"
+        "form": "tale"
       },
       "translations": [
         {
@@ -347,13 +347,13 @@
     {
       "entry": {
         "id": 12,
-        "form": "tit"
+        "form": "tita"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "that/that-there/that one's, he/him/she/her/it/its"
+            "それ/that one's, he/him/she/her/it/its"
           ]
         }
       ],
@@ -373,7 +373,7 @@
     {
       "entry": {
         "id": 13,
-        "form": "tis"
+        "form": "tise"
       },
       "translations": [
         {
@@ -399,7 +399,7 @@
     {
       "entry": {
         "id": 14,
-        "form": "tut"
+        "form": "tuka"
       },
       "translations": [
         {
@@ -451,7 +451,7 @@
     {
       "entry": {
         "id": 16,
-        "form": "nus"
+        "form": "nua"
       },
       "translations": [
         {
@@ -477,7 +477,7 @@
     {
       "entry": {
         "id": 17,
-        "form": "pan"
+        "form": "pale"
       },
       "translations": [
         {
@@ -503,7 +503,7 @@
     {
       "entry": {
         "id": 18,
-        "form": "kap"
+        "form": "era"
       },
       "translations": [
         {
@@ -529,7 +529,7 @@
     {
       "entry": {
         "id": 19,
-        "form": "lap"
+        "form": "lan"
       },
       "translations": [
         {
@@ -555,7 +555,7 @@
     {
       "entry": {
         "id": 20,
-        "form": "nap"
+        "form": "nil"
       },
       "translations": [
         {
@@ -581,7 +581,7 @@
     {
       "entry": {
         "id": 21,
-        "form": "pap"
+        "form": "pa"
       },
       "translations": [
         {
@@ -607,7 +607,7 @@
     {
       "entry": {
         "id": 22,
-        "form": "sap"
+        "form": "sa"
       },
       "translations": [
         {
@@ -633,7 +633,7 @@
     {
       "entry": {
         "id": 23,
-        "form": "lip"
+        "form": "or"
       },
       "translations": [
         {
@@ -659,7 +659,7 @@
     {
       "entry": {
         "id": 24,
-        "form": "nip"
+        "form": "ovas"
       },
       "translations": [
         {
@@ -711,7 +711,7 @@
     {
       "entry": {
         "id": 26,
-        "form": "sip"
+        "form": "tip"
       },
       "translations": [
         {
@@ -737,13 +737,13 @@
     {
       "entry": {
         "id": 27,
-        "form": "kal"
+        "form": "kel"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "yes/no"
+            "はい/いいえ"
           ]
         }
       ],
@@ -772,7 +772,7 @@
         {
           "title": "structure",
           "forms": [
-            "who/what/where/why/when"
+            "？/何"
           ]
         }
       ],
@@ -792,13 +792,13 @@
     {
       "entry": {
         "id": 29,
-        "form": "kil"
+        "form": "ki"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "question predicate"
+            "疑問"
           ]
         }
       ],
@@ -818,13 +818,13 @@
     {
       "entry": {
         "id": 30,
-        "form": "vak"
+        "form": "valo"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "strong positive, yes, indeed, certainly"
+            "強い/はい/たしかに/certainly"
           ]
         }
       ],
@@ -844,13 +844,13 @@
     {
       "entry": {
         "id": 31,
-        "form": "vik"
+        "form": "vike"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "somewhat positive"
+            "ややポジティブな"
           ]
         }
       ],
@@ -870,13 +870,13 @@
     {
       "entry": {
         "id": 32,
-        "form": "vuk"
+        "form": "vupe"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "neutral"
+            "ナチュラル,自然"
           ]
         }
       ],
@@ -896,13 +896,13 @@
     {
       "entry": {
         "id": 33,
-        "form": "nik"
+        "form": "niga"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "negative"
+            "ネガティブ"
           ]
         }
       ],
@@ -922,13 +922,13 @@
     {
       "entry": {
         "id": 34,
-        "form": "nuk"
+        "form": "naol"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "opposite"
+            "反対/逆"
           ]
         }
       ],
@@ -948,13 +948,13 @@
     {
       "entry": {
         "id": 35,
-        "form": "vit"
+        "form": "vitt"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "ABRUPT"
+            "突然"
           ]
         }
       ],
@@ -980,7 +980,7 @@
         {
           "title": "structure",
           "forms": [
-            "POLITE"
+            ""
           ]
         }
       ],
@@ -1000,7 +1000,7 @@
     {
       "entry": {
         "id": 37,
-        "form": "pal"
+        "form": "pak"
       },
       "translations": [
         {
@@ -1026,7 +1026,7 @@
     {
       "entry": {
         "id": 38,
-        "form": "pil"
+        "form": "pila"
       },
       "translations": [
         {
@@ -1052,7 +1052,7 @@
     {
       "entry": {
         "id": 39,
-        "form": "pul"
+        "form": "pull"
       },
       "translations": [
         {
@@ -1078,13 +1078,13 @@
     {
       "entry": {
         "id": 40,
-        "form": "pat"
+        "form": "patt"
       },
       "translations": [
         {
           "title": "structure",
           "forms": [
-            "short time distance"
+            "短い"
           ]
         }
       ],
@@ -1110,7 +1110,7 @@
         {
           "title": "structure",
           "forms": [
-            "medium time distance"
+            "中ぐらい"
           ]
         }
       ],
@@ -1136,7 +1136,7 @@
         {
           "title": "structure",
           "forms": [
-            "long time distance"
+            "長い"
           ]
         }
       ],
